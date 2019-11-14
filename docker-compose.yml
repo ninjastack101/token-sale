@@ -1,0 +1,7 @@
+version: "2.1"
+
+services:
+  token-sale:
+    build: .
+    container_name: token-sale
+    image: token-sale
