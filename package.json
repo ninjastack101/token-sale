@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^10.12.2",
+    "@types/node": "^13.7.0",
     "await-of": "^1.2.0",
     "await-to-js": "^2.1.1",
     "bignumber.js": "^9.0.0",
