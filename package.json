@@ -27,7 +27,7 @@
   "devDependencies": {
     "@types/chai": "^4.2.0",
     "@types/mocha": "^5.2.7",
-    "@types/sinon": "^7.0.13",
+    "@types/sinon": "^9.0.7",
     "@types/sinon-stub-promise": "^2.1.5",
     "@typescript-eslint/eslint-plugin": "^2.0.0",
     "@typescript-eslint/parser": "^2.0.0",
