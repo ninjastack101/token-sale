@@ -16,7 +16,7 @@
   "dependencies": {
     "@types/node": "^10.12.2",
     "await-of": "^1.2.0",
-    "await-to-js": "^2.1.1",
+    "await-to-js": "^3.0.0",
     "bignumber.js": "^9.0.0",
     "chai-http": "^4.3.0",
     "lodash": "^4.17.15",
